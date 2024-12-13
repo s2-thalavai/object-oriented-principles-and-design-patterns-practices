@@ -1,2 +1,4 @@
 # design-patterns-in-oop
-Design Patterns in Object Oriented Programming
+
+Object Oriented Principles and Design Patterns using Java, JS, TS and Python
+
